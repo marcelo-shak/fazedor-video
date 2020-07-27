@@ -1,2 +1,2 @@
-# fazedor-video
+# fazedor video
 cria videos youtube sozinho
